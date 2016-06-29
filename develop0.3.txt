@@ -1,1 +1,4 @@
 I can start to use the git to mange my codes
+
+
+I have add some thing ,your files are last state!!!
